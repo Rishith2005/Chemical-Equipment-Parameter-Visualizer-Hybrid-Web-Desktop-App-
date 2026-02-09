@@ -124,3 +124,9 @@ Use `sample_equipment_data.csv` in the repo root to test uploads from either the
 ## Notes
 - History is enforced per user: after each successful upload the backend keeps only the most recent 5 datasets.
 - PDF reports are generated on demand from stored dataset metadata and summary analytics.
+
+<img width="1919" height="1031" alt="Screenshot 2026-02-08 130854" src="https://github.com/user-attachments/assets/44af99ca-37d3-463c-8b69-0d1a1b0e35a7" />
+<img width="1892" height="1020" alt="Screenshot 2026-02-08 130621" src="https://github.com/user-attachments/assets/13676b40-24aa-449b-873f-9e6a135b6186" />
+<img width="1887" height="1002" alt="Screenshot 2026-02-08 130639" src="https://github.com/user-attachments/assets/75437a9d-88ca-4c42-831a-b5c46c0dabdd" />
+<img width="1892" height="971" alt="Screenshot 2026-02-08 130719" src="https://github.com/user-attachments/assets/3e128803-012c-452b-a542-6d15e2eb0397" />
+
